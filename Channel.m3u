@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="local",liga1
-https://token-media-vidio-com.akamaized.net/exp=1582979190~acl=/uploads/1904155/*~hmac=e67ee36a744e53f806726fa71114b4df2707a7a8cbf94ade6953bc92ca492634/uploads/1904155/ets-teaser-20launching-20rev-205-20sosmed-0183_55e4894c_lowest.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="local",ochannel
-https://etslive-2-vidio-com.akamaized.net/exp=1582987466~acl=/hls-b/ingest_206_*/*~hmac=f2f2c73f3b7c4f0e63a8a0d0b3d4d47e6ed1c007263c0b56fad1c9aa9a2e686b/hls-b/ingest_206_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="local",perseb vs persik
-http://m.youtube.com/watch?v=E_beSlIG0ls
+https://etslive-2-vidio-com.akamaized.net/exp=1582992618~acl=/hls-p/ingest_101_*/*~hmac=f0ccec0d24d71dde3ef81eaa0e45278bbded19e05038b48444d4303a23f6248b/hls-p/ingest_101_240p/index.m3u8
