@@ -15,4 +15,4 @@ http://lihattv.co.id/?play=44246
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="sport",cctv5
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="sport",cctv5+
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+rtmp://live.cdn2.streamera.tv/streamago/21347-17799/17799
