@@ -7,3 +7,5 @@ http://lihattv.co.id/?play=43414
 http://lihattv.co.id/?play=43415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="movie",fox movie
 http://lihattv.co.id/?play=43350
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="sport",mncsport2
+http://lihattv.co.id/?play=44249
